@@ -1,4 +1,4 @@
-# MatigBukSU - Bukidnon State University Library Management System
+# MatigBukSU - Ahava
 
 ## Overview
 MatigBukSU is a comprehensive library management system designed for Bukidnon State University. It provides features for managing books, users, borrowing, and special offers.
